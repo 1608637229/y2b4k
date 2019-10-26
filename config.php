@@ -1,9 +1,9 @@
 <?php
-define('APIKEY', 'AIzaSyBpg1qOSts8Vh2zDBRYZO3aZVd-uaCPH90');
+define('APIKEY', 'AIzaSyBwovNv7t2Er8llmzOIVuuqhGusPv-7W8I');
 define('TITLENAME', 'YouProxy');
 define('SITE_NAME', 'YouProxy');
-define('NAME', 'zyp997');
-define('PASSWORD', '19990601');
+define('NAME', 'sbs158');
+define('PASSWORD', '16086aply');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
